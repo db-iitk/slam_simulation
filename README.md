@@ -1,4 +1,4 @@
-A simulation of workings of a LIDAR sensor in sensing the surriunding environment.
+A simulation of workings of a LIDAR sensor in sensing the surrounding environment.
 
 The mouse cursor acts as a LIDAR sensor having a certain range and samples the map.
 
